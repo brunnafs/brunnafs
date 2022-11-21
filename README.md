@@ -1,10 +1,12 @@
-## A little about myself 👋
+## Hello 👋
 
 <p aling="center">
-  <img src="https://www.canva.com/design/DAFSTRAQ1hM/zgU934DL1cn0xcW_cdAbMA/edit?utm_content=DAFSTRAQ1hM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+  <img src="https://www.hipdf.com/download-file?share_id=G84HutGspVKRLCUyPp_wjg" />
   </p>
 
 Hi friend, I'm Brunna.
+
+## A little about myself 
 
 ## Studies
 📚 Undergraduate student in international relations at Julio Mesquita Filho University (UNESP - Franca);
@@ -22,3 +24,5 @@ Hi friend, I'm Brunna.
 ## Passions
 
 🥰 Passionate about football, competitive games, politics, animals and nature.
+
+## Social && contact

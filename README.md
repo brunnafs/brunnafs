@@ -6,7 +6,7 @@
 
 Hi friend, I'm Brunna.
 
-## A little about myself 
+# A little about myself 
 
 ## Studies
 📚 Undergraduate student in international relations at Julio Mesquita Filho University (UNESP - Franca);
@@ -22,7 +22,15 @@ Hi friend, I'm Brunna.
 
 
 ## Passions
+🥰 Football;
 
-🥰 Passionate about football, competitive games, politics, animals and nature.
+🥰 Competitive games;
+
+🥰 Politics;
+
+🥰 Animals;
+
+🥰 Nature.
+
 
 ## Social && contact
